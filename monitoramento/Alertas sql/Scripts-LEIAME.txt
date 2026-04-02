@@ -1,0 +1,15 @@
+Para configurar o envio desses Alertas, temos alguns pré-requisitos:
+
+    Configurar o SQL Server para enviar e-mail (claro).
+
+    Criar uma database para logar informações.
+        Utilizo uma database com nome “Traces” nos Scripts. Se quiser usar uma base com outro nome, boa sorte no replace de todos os scripts.
+
+    Criar a procedure sp_WhoIsActive (muito útil!!!).
+	Nesse site pode baixar e criar essa procedure: http://whoisactive.com/
+
+
+Baixem os scripts dos alertas disponíveis nesse link:
+https://www.fabriciolima.net/blog/2017/10/05/video-criando-15-alertas-no-sql-server-em-apenas-5-minutos/
+
+Coloquei aqui pois caso melhore algum script posteriormente, você já baixa ele melhorado.

@@ -1,0 +1,20 @@
+--EXECUTE db_dba.dbo.usp_GeraBackup '07107_SWMCAI', 'FULL'
+----EXECUTE db_dba.dbo.usp_GeraBackup '0710701_Radar', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'CIE', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'db_dba', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'db_SCO', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'ReportServer', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'ReportServerTempDB', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'SCOClient', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'SCOServer', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'Siga_CAI', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'Siga_CAI_Public', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'SpliceMTV', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'SWM_CAI', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'VEICULOS_SP', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'master', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'model', 'FULL'
+--EXECUTE db_dba.dbo.usp_GeraBackup 'msdb', 'FULL'
+
+
+	
